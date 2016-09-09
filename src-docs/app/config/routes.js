@@ -7,7 +7,6 @@ import ExamplesDefaultPage from 'src-docs/app/pages/ExamplesDefaultPage'
 import ExamplesPrimaryPage from 'src-docs/app/pages/ExamplesPrimaryPage'
 import DocsExamplePage from 'src-docs/app/pages/DocsExamplePage'
 import DocsMarkdownExamplePage from 'src-docs/app/pages/DocsMarkdownExamplePage'
-import DocsMarkdownExamplePage from 'src-docs/app/pages/DocsMarkdownExamplePage'
 
 export const routes = {
   '/': {

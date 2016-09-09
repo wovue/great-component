@@ -11,7 +11,7 @@ var env = process.env.NODE_ENV === 'testing'
 
 var webpackConfig = merge(baseWebpackConfig, {
   entry: {
-    great-component: './src/main.js'
+    'great-component': './src/main.js'
   },
   module: {
     loaders: utils.styleLoaders({ sourceMap: prodConfig.dist.productionSourceMap, extract: true })
