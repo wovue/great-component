@@ -1,6 +1,6 @@
 # GreatComponent
 
-> A Vue.js component
+>  [component template](https://github.com/wovue/component-template/tree/master) demo
 
 ## Build Setup
 
